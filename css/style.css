@@ -1,0 +1,69 @@
+#canvas {
+    float: left;
+}
+
+#action {
+    float: left;
+    margin-top: 200px;
+}
+
+#tb {
+    width: 750px;
+    height: 450px;
+    background-color: white;
+}
+
+.cel {
+    width: 30px;
+    height: 30px;
+    background-color: black;
+}
+
+#score {
+    text-align: right;
+    font-weight: bold;
+    color: brown;
+    font-size: larger;
+}
+
+#taction td {
+    text-align: center;
+}
+
+/*
+#c1-1 {
+    background-image: url("../img/joueur.png");
+    background-color: white;
+}
+
+
+#c4-4 {
+    background-image: url("../img/monstre.png");
+    background-color: white;
+}
+
+
+#c11-5 {
+    background-image: url("../img/monstre.png");
+    background-color: white;
+}
+
+#c11-8 {
+    background-image: url("../img/tresor.png");
+    background-color: white;
+}
+
+#c12-11 {
+    background-image: url("../img/tresor.png");
+    background-color: white;
+}
+
+#c9-14 {
+    background-image: url("../img/mur.png");
+    background-color: white;
+}
+
+#c12-9 {
+    background-image: url("../img/mur.png");
+    background-color: white;
+}*/
